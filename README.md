@@ -4,7 +4,7 @@ in infrastructure.
 French and english texts. Presentation Text in french at the bottom.
 Source file in dxf format. Text in different languages are
 handled on layers.
-Source datat in Spreadsheet in Libre Office format
+Source datat in Spreadsheet in Libre Office format.
 Higher resolution png and pdf files in sub-directories.
 
 Attached drawings showing the footprint of many cycles.
@@ -51,7 +51,7 @@ solution raisonnable est leur démantèlement.
 On peut soit faire une liste de numéros indiquant la compatibilité d’un
 sas, c’est la meilleure solution mais c’est un travail un peu long, ou
 plus simplement donner une note indiquant le ratio de vélos pouvant passer
-un sas: par exemple 1/11, 3/11ou 8/11. La ‘note’ de 0,5/11 peut être
+un sas: par exemple 1/11, 3/11 ou 8/11. La ‘note’ de 0,5/11 peut être
 attribuée si seul un vélo droit peut passer, mais s’il faut déposer
 les sacoches.
 
