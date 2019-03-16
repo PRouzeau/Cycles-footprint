@@ -1,0 +1,13 @@
+Vous trouverez ci-joint des dessins donnant l’encombrement en vue de dessus de nombreux types de vélos.
+Les formes des vélos sont basées sur des vélos existants et vous trouverez aussi un fichier tableur répertoriant les vélos utilisés pour l’élaboration de ce document. 
+Les vues en plan des divers types de vélos sont numérotées.
+Cette compilation a été suscitée par la mise en place beaucoup trop fréquente de ‘sas de filtrage’ qui empêchent le passage de nombreux vélos ainsi que de tous les attelages.
+L’idée est d’indiquer quel types de vélos ou d’attelage les sas existants permettent de passer. Il est aussi indispensable que les futures installations ou les installations modifiées permettent le passage de tous types de vélos et d’attelages et une enveloppe a été définie en ce sens.
+
+Outre les dimensions en vue de dessus, certain sas qui sont installés sur des véloroutes (donc parcourues par des gens qui voyagent à vélo) nécessitent le démontage des sacoches, en particulier à l’avant. D’une manière pratique, ces sas empêchent l’usage de la véloroute pour du tourisme à vélo, ce qui est souvent une de ses destinations. La seule solution raisonnable est leur démantèlement.
+
+On peut soit faire une liste de numéros indiquant la compatibilité d’un sas, c’est la meilleure solution mais c’est un travail un peu long, ou plus simplement donner une note indiquant le ratio de vélos pouvant passer un sas: par exemple 1/11, 3/11ou 8/11
+La ‘note’ de 0,5/11 peut être attribuée si seul un vélo droit peut passer, mais s’il faut déposer les sacoches.
+
+L’idée de base de la mise en place des sas les plus difficiles à franchir est de bloquer les deux roues motorisés. C’est simplement impossible car de nombreux vélos sont plus encombrants que des deux-roues motorisés compacts. La mise en place de ces sas prévient l’usage pour lequel les voies cyclables ont été prévues et ces sas doivent être considérés et cartographiés comme des ‘points noirs’.
+
