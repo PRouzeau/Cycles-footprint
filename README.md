@@ -27,6 +27,8 @@ bike ways is possible.
 If some bikes cannot pass, the references of cycle type which cannot go
 through can be listed for the given bottleneck.
 
+![Presentation image](Full_en_768.png?raw=true "All cycles")
+
 Vous trouverez ci-joint des dessins donnant l’encombrement en vue de
 dessus de nombreux types de vélos.
 Les formes des vélos sont basées sur des vélos existants et vous
@@ -61,8 +63,4 @@ de nombreux vélos sont plus encombrants que des deux-roues motorisés
 compacts. La mise en place de ces sas prévient l’usage pour lequel les
 voies cyclables ont été prévues et ces sas doivent être considérés et
 cartographiés comme des ‘points noirs’.
-
-![Presentation image](Full_en_768.png?raw=true "All cycles")
-
-
 
