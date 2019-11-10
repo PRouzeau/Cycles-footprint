@@ -62,5 +62,7 @@ compacts. La mise en place de ces sas prévient l’usage pour lequel les
 voies cyclables ont été prévues et ces sas doivent être considérés et
 cartographiés comme des ‘points noirs’.
 
+![Presentation image](Full_en_768.png?raw=true "All cycles")
+
 
 
